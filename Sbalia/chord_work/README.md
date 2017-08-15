@@ -2,7 +2,6 @@
 
 ### Dependencies
 1. music21
-2. itertools
 
 ### Usage
 
