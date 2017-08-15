@@ -3,7 +3,6 @@ from chord import rec_chord
 import music21 as m21
 from sys import argv
 from os import listdir
-m21.environment.UserSettings()['lilypondPath'] = 'D:/LilyPond/usr/bin/lilypond.exe'
 
 def cMPairList2Score(cMPairList):
 	score = m21.stream.Score()
